@@ -1,5 +1,5 @@
 # Flappy-Bird
 CONTENTS :
--Scrits
+-Scripts
 -Images
 -Font
