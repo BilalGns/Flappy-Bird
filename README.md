@@ -6,14 +6,17 @@
 <p/>
           
 </p>
-Flappy Bird, popüler bir mobil oyunun basit bir çoğaltmasıdır. Oyunun amacı, hızla uçan bir kuşu tıklamalar yardımıyla borular arasından geçirmektir. Yaklaşan borulara çarptığınızda oyun sona erer.
 
-## Oyun Özellikleri
+ ## *Flappy Bird Nedir*   
+ - Flappy Bird, popüler bir mobil oyunun basit bir çoğaltmasıdır. Oyunun amacı, hızla uçan bir kuşu tıklamalar yardımıyla borular arasından geçirmektir. Yaklaşan borulara çarptığınızda oyun sona erer.
 
-- Basit ve bağımlılık yapıcı oynanış.
-- Hem mobil hemde bilgisayar desteği mevcuttur.
 
-## Ekran Görüntüleri
+## *Oyun Özellikleri*
+
+- **Basit ve bağımlılık yapıcı oynanış.**
+- **Hem mobil hemde bilgisayar desteği mevcuttur.**
+
+## *Ekran Görüntüleri*
 
 <div sytle = "display : flex;">
     <img src="https://github.com/BilalGns/Flappy-Bird/blob/main/assets/Image/Fp/Flappy.jpg" alt="Resim 1" width="300" height="650">
@@ -21,17 +24,17 @@ Flappy Bird, popüler bir mobil oyunun basit bir çoğaltmasıdır. Oyunun amac�
     <img src="https://github.com/BilalGns/Flappy-Bird/blob/main/assets/Image/Fp/Flappy3.jpg" alt="Resim 3" width="300" height="650">
 </div>
 
-## Nasıl Oynanır
+## *Nasıl Oynanır*
 
-1. Oyunu başlatmak için "Başla" düğmesine tıklayın.
-2. Kuşun sıçraması için space tuşunu kullanın. (Bilgisayar için)
-3. Borular arasından geçerek ne kadar yüksek skor alabileceğinizi öğrenin!
+1. **Oyunu başlatmak için "Başla" düğmesine tıklayın.**
+2. **Kuşun sıçraması için space tuşunu kullanın. (Bilgisayar için)**
+3. **Borular arasından geçerek ne kadar yüksek skor alabileceğinizi öğrenin!**
 
-## Hakkında
+## *Hakkında*
 
-- [Unity](https://unity.com/) : Oyun motoru olarak kullanılmıştır.
+- **[Unity](https://unity.com/) : Oyun motoru olarak kullanılmıştır.**
 
 
-## Lisans
+## *Lisans*
 
-Bu proje MIT Lisansı altında dağıtılmaktadır. Daha fazla bilgi için `LICENSE` dosyasına bakın.
+**Bu proje MIT Lisansı altında dağıtılmaktadır. Daha fazla bilgi için `LICENSE` dosyasına bakın.**
