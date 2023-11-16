@@ -19,9 +19,9 @@
 ## *Ekran Görüntüleri*
 
 <div sytle = "display : flex;">
-    <img src="https://github.com/BilalGns/Flappy-Bird/blob/main/assets/Image/Fp/Flappy.jpg" alt="Resim 1" width="300" height="650">
-    <img src="https://github.com/BilalGns/Flappy-Bird/blob/main/assets/Image/Fp/Flappy2.jpg" alt="Resim 2" width="300" height="650">
-    <img src="https://github.com/BilalGns/Flappy-Bird/blob/main/assets/Image/Fp/Flappy3.jpg" alt="Resim 3" width="300" height="650">
+    <img src="https://github.com/BilalGns/Flappy-Bird/blob/main/assets/Image/Fp/Flappy.jpg" alt="Resim 1" width="230" height="500">
+    <img src="https://github.com/BilalGns/Flappy-Bird/blob/main/assets/Image/Fp/Flappy2.jpg" alt="Resim 2" width="230" height="500">
+    <img src="https://github.com/BilalGns/Flappy-Bird/blob/main/assets/Image/Fp/Flappy3.jpg" alt="Resim 3" width="230" height="500">
 </div>
 
 ## *Nasıl Oynanır*
@@ -38,3 +38,10 @@
 ## *Lisans*
 
 **Bu proje MIT Lisansı altında dağıtılmaktadır. Daha fazla bilgi için `LICENSE` dosyasına bakın.**
+
+## Connect with  me 📬:
+
+<a href="mailto:bilalgunes.dev@gmail.com" target="blank">
+<img src="https://github.com/mahiiverse1/mahiiverse1/blob/main/Gmail_Logo_256px.png"   align="center"   width="60"/>
+</a>
+
